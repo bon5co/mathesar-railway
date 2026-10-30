@@ -1,5 +1,9 @@
 # mathesar-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/mathesar-or-just-updated-postgres-spread?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Mathesar template](https://railway.com/deploy/mathesar-or-just-updated-postgres-spread?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway wrapper image for [Mathesar](https://mathesar.org) — the open-source web UI for
 your own PostgreSQL database (spreadsheet-style table editing, relationships, permissions).
 
